@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[![Is <username> available for hire?](http://hireable.me/<username>)](http://hireable.me/p/<username>)
+[![Is willsanchez86 available for hire?](http://hireable.me/willsanchez86)](http://hireable.me/p/willsanchez86)
 
 
 <!---
