@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[![Is willsanchez86 available for hire?](http://hireable.me/willsanchez86)](http://hireable.me/p/willsanchez86)
 
+http://hireable.me/willsanchez86
 
 <!---
 willsanchez86/willsanchez86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
