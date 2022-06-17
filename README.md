@@ -1,7 +1,7 @@
 <h2>Hey 👋, I'm <a href="https://www.williamsanchez.dev">Will</a></h2>
 <p><strong>Full Stack Web Developer, Anime Nerd,</strong> and an <strong>Above-Average Cornhole Player</strong> <br /> I am currently building side projects using React for FrontEnd, transitioning from Flask/Python to NodeJS backend, and actively seeking Full-Time work for Front-End Development or Entry Level Blockchain Development</p>
 
-<p><a href="https://www.williamsanchez.dev"><img src="https://img.shields.io/badge/-williamsanchez.dev-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://stanleylim.me" alt="Website Badge"></a> <a href="https://www.linkedin.com/in/williamlsanchez"><img src="https://img.shields.io/badge/-@williamlsanchez-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/serbis/" alt="LinkedIn Badge"></a></p>
+<p><a href="https://www.williamsanchez.dev"><img src="https://img.shields.io/badge/-williamsanchez.dev-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://williamsanchez.dev" alt="Website Badge"></a> <a href="https://www.linkedin.com/in/williamlsanchez"><img src="https://img.shields.io/badge/-@williamlsanchez-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/williamlsanchez" alt="LinkedIn Badge"></a></p>
 
 <img align="right" src="https://media.giphy.com/media/gG6OcTSRWaSis/giphy.gif" width="400"/>
 
