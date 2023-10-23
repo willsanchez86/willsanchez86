@@ -7,10 +7,10 @@
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🧐 Currently strengthening my skills in <strong>NodeJS</strong>, <strong>Solidity Smart Contract Development</strong>, <strong>CyberSecurity</strong>.</li>
-<li>👨‍💻 Most of my projects are available on <a href="https://github.com/willsanchez86">Github</a>.</li>
-<li>💬 Ping me about <strong>react, security, and web3 stuff</strong>.</li>
-<li>📙 Check out my <a href="https://www.williamsanchez.dev/images/WilliamSanchezResume.pdf">resume</a>.</li>
+<li>🧐 Currently strengthening my skills in <strong>Cloud Computing</strong>, <strong>Distributed Networks</strong>, <strong>CyberSecurity</strong>.</li>
+<!-- <li>👨‍💻 Most of my projects are available on <a href="https://github.com/willsanchez86">Github</a>.</li> -->
+<!-- <li>💬 Ping me about <strong>react, security, and web3 stuff</strong>.</li> -->
+<!-- <li>📙 Check out my <a href="https://www.williamsanchez.dev/images/WilliamSanchezResume.pdf">resume</a>.</li> -->
 </ul>
 
 <h2>🚀 Some Tools I Use</h2>
